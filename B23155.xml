@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This to all people who stumble at Gods commands</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23155</idno>
+            <idno type="STC">Wing F1936</idno>
+            <idno type="STC">ESTC R39546</idno>
+            <idno type="EEBO-CITATION">18428926</idno>
+            <idno type="OCLC">ocm 18428926</idno>
+            <idno type="VID">154422</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154422)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1632:61)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This to all people who stumble at Gods commands</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mary Westwood ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: cropped and slighty faded, with some loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:154422:1" rendition="simple:additions"/>
+            <head>This is to all people who ſtumble at Gods Commands.</head>
+            <p>Yea to all you who ſtumble at the Commands of God, you are not guided by the light, which lead into the Covenant of God, obeying and loving it, if you love the light, which doth not change but is eternal which brings to ſee before the world was, all the deſires which are acted in that natur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which hates the light, with the light in the particular, if thou love it they are all judged, and the affections crucified, then the pure Commands of God are walked in, and that pure eternall ligh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which judgeth in the particular all the deceits within, that nothing may reign but that which is pure, and cleane, and holy, and juſt, and good, and perfect and upright, and theſe are the fruits that ſlow from that which is pure, and holy, and from it joy proceeds, and no deſires of the fleſh, no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> motions of it is followed who dwells in the light, but with the light they are all judged, and con<g ref="char:EOLhyphen"/>demned, and the affections crucified which be earthly; no Jew in the fleſh ſhall here reign in the Letter; but with the power all that is earthly is condemned, and that which is changeable judged, with that which changeth not, which guides to God, here is the way of pleaſantneſſe, and here you ſhall all know the movings of the Lord are pure, the holy when it moves, being obedient, yee re<g ref="char:EOLhyphen"/>ceive ſtrength dwelling in the pure, and walking in the Commands of God, and ſtanding ſtill in the patience, where the will is kept out with the light, but to thee whoſe mind is turned from the pure light, yet thou art convinced, but thy love is in the world, in the fleſh, and deceit is ſtrong, ſome thing moves thee to turn within, but thou reaſoneſt, and ſo diſobeyeſt the pure, then thou haſt no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peace, then motions ariſeth in the fleſh, and then thou wilt goe and doe ſomething in thy own will to make thy peace, and when thou haſt done thou haſt no peace, and when thou doſt not thou haſt no peace for this to thee I ſay, it is not juſtifiable in the ſight of God, but with the light which is pure, it is all to be condemned, and with the light which doth not change, thou art to be condemn<g ref="char:EOLhyphen"/>ed, and all thy forming obedience as thou calleſt it, and all thy deſires which is acted in that na<g ref="char:EOLhyphen"/>ture, which is turned from the light which is pure, with the light is to be condemned, and here the eye is ſingle, the other is not, the movings of the Lord is pure, and deceite is not, ſo with the pure, it is all to be condemned, the word of the Lord is pure where the burthen is upon it, it is for the ſeeds ſake in others, till it be caſt off, that which burthens is that which is to be caſt off, here learn judgement, and underſtanding, to threſh down that which vailes; that, that which burthens may be thrown out with the pure eternall, which leads out of time, the love from that which is pure is not ſeigned, but is everlaſting, as God is love, love flowes from the light, this is not feigned, but all you whoſe minds is turned from the light; a liberty there gets up, a fleſhly joy, a feigned love ſpeaking high things, but this ſhall wither, and with the light all this is to be condemned, and for judgement, and the jar, and the ſtrife is without, and you all who are turned from the pure light which is eternall, and doth not change, you are in your own wills and what you doe is in your owne wills; and when you have done you have not peace, and when you doe not you have no peace, and all your motions are from the fleſhly mind, which with the light is all to be condemned, which lov<g ref="char:EOLhyphen"/>ing it, and walking in it, it keeps ſingle and pure, and following it, there is no ſtumbling, it ſhews the way of life, and waiting in it, power is given, and ſtrength, and being obedient to it, and faith<g ref="char:EOLhyphen"/>full in a little, you will grow up to be rulers over much (and the word of the Lord to all you, that are turned from the light in your conſciences and acts contrary to it) (whoſe minds are gone into the earth, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o is compaſſing Sea, and Land to make a profeſſion in that nature which is gone from the light, and acts contrary to it,) with the light you are comprehended and ſeen, (woe) from the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>t doth againſt you proceed, that is your portion.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Mary Weſtwood</hi> in the Year. 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
